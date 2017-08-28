@@ -6,8 +6,9 @@ ArangoDB Connector
 ## To run tests:
 1. You must have an ArangoDB instance installed
 2. Edit the file setup.sh and put your credentials in there
-3. Run `. ./setup.sh`
-4. run `npm test`
+3. Run `npm install`
+4. Run `. ./setup.sh`
+5. run `npm test`
 
 
 
