@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Foo",
+        "power": "one",
+        "address": "123, Street One, New York",
+        "description": "First",
+        "location": {
+            ""
+        },
+        "age": 12
+    },
+    {
+        "key": "b",
+        "title": "Lead Developer",
+        "name": "Baz",
+        "age": 23,
+        "contact": "baz@baz.com"
+    },
+    {
+        "key": "c",
+        "title": "Senior Architect",
+        "name": "Bar",
+        "age": 89,
+        "contact": "bar@bar.com"
+    }
+]

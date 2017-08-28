@@ -1,0 +1,37 @@
+[
+    {
+        "key": "1",
+        "firstName": "John",
+        "lastName": "One",
+        "email": "john.one@arango.db",
+        "age": 20
+    },
+    {
+        "key": "2",
+        "firstName": "Jack",
+        "lastName": "Two",
+        "email": "jack.two@arango.db",
+        "age": 30
+    },
+    {
+        "key": "3",
+        "firstName": "Edward",
+        "lastName": "Three",
+        "email": "edward.three@arango.db",
+        "age": 40
+    },
+    {
+        "key": "4",
+        "firstName": "Willian",
+        "lastName": "Four",
+        "email": "willian.four@arango.db",
+        "age": 50
+    },
+    {
+        "key": "5",
+        "firstName": "Jeny",
+        "lastName": "Five",
+        "email": "jeny.five@arango.db",
+        "age": 60
+    }
+]
