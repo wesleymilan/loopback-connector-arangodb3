@@ -1,0 +1,32 @@
+[
+    {
+        "address": "NY 1",
+        "city": "New York",
+        "lat": 40.711458,
+        "lng": -74.008527
+    },
+    {
+        "address": "NY 2",
+        "city": "New York",
+        "lat": 40.748827,
+        "lng": -73.994490
+    },
+    {
+        "address": "NY 3",
+        "city": "New York",
+        "lat": 40.750974,
+        "lng": -73.988475
+    },
+    {
+        "address": "London 1",
+        "city": "London",
+        "lat": 51.538809,
+        "lng": -0.142803
+    },
+    {
+        "address": "London 2",
+        "city": "London",
+        "lat": 51.541725,
+        "lng": -0.137009
+    }
+]
