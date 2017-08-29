@@ -1,5 +1,5 @@
 {
-    "name": "loopback-connector-arangodb",
+    "name": "loopback-connector-arangodb3",
     "version": "0.0.1",
     "description": "ArangoDB connector for Loopback 3 and ArangoDB 3",
     "engines": {
@@ -12,7 +12,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/strongloop/loopback-connector"
+        "url": "https://github.com/wesleymilan/loopback-connector-arangodb3"
     },
     "main": "index.js",
     "scripts": {
