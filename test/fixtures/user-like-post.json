@@ -1,42 +1,42 @@
 [
     {
-        "from": "User/1",
-        "to": "Post/1",
-        "key": "1"
+        "user_id": "User/1",
+        "post_id": "Post/1",
+        "id": "1"
     },
     {
-        "from": "User/1",
-        "to": "Post/2",
-        "key": "2"
+        "user_id": "User/1",
+        "post_id": "Post/2",
+        "id": "2"
     },
     {
-        "from": "User/2",
-        "to": "Post/1",
-        "key": "3"
+        "user_id": "User/2",
+        "post_id": "Post/1",
+        "id": "3"
     },
     {
-        "from": "User/3",
-        "to": "Post/5",
-        "key": "4"
+        "user_id": "User/3",
+        "post_id": "Post/5",
+        "id": "4"
     },
     {
-        "from": "User/4",
-        "to": "Post/1",
-        "key": "5"
+        "user_id": "User/4",
+        "post_id": "Post/1",
+        "id": "5"
     },
     {
-        "from": "User/4",
-        "to": "Post/3",
-        "key": "6"
+        "user_id": "User/4",
+        "post_id": "Post/3",
+        "id": "6"
     },
     {
-        "from": "User/5",
-        "to": "Post/1",
-        "key": "7"
+        "user_id": "User/5",
+        "post_id": "Post/1",
+        "id": "7"
     },
     {
-        "from": "User/5",
-        "to": "Post/2",
-        "key": "8"
+        "user_id": "User/5",
+        "post_id": "Post/2",
+        "id": "8"
     }
 ]
