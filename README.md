@@ -1,7 +1,7 @@
 # loopback-connector-arangodb3
 ArangoDB Connector
 
-# DON'T USE THIS CODE, IT's AN ALPHA VERSION IN EARLY DEVELOPMENT STAGE
+# IT's AN ALPHA VERSION IN EARLY DEVELOPMENT STAGE
 
 ## To run tests:
 1. You must have an ArangoDB instance installed
