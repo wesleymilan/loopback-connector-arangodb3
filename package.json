@@ -27,7 +27,7 @@
         "debug": "^2.6.9",
         "guid": "0.0.12",
         "loopback-connector": "^4.5.0",
-        "merge": "^1.2.0",
+        "merge": "^1.2.1",
         "msgpack5": "^3.6.0",
         "sha256": "^0.2.0",
         "strong-globalize": "^2.10.0",
