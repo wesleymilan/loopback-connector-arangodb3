@@ -1,5 +1,5 @@
 {
-    "name": "loopback-connector-arangodb3",
+    "name": "loopback3-connector-arangodb3",
     "version": "0.0.1",
     "description": "ArangoDB connector for Loopback 3 and ArangoDB 3",
     "engines": {
