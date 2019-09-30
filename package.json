@@ -22,22 +22,22 @@
     "license": "MIT",
     "dependencies": {
         "arangojs": "^5.8.0",
-        "async": "^2.6.1",
-        "bluebird": "^3.5.1",
+        "async": "^2.6.3",
+        "bluebird": "^3.5.5",
         "debug": "^2.6.9",
         "guid": "0.0.12",
-        "loopback-connector": "^4.5.0",
+        "loopback-connector": "^4.9.0",
         "merge": "^1.2.1",
         "msgpack5": "^3.6.0",
         "sha256": "^0.2.0",
         "strong-globalize": "^2.10.0",
-        "uuid": "^3.2.1"
+        "uuid": "^3.3.3"
     },
     "devDependencies": {
-        "chai": "~3.5.0",
-        "eslint": "^3.17.1",
+        "chai": "^3.5.0",
+        "eslint": "^3.19.0",
         "eslint-config-loopback": "^8.0.0",
-        "loopback-datasource-juggler": "^3.22.0",
+        "loopback-datasource-juggler": "^3.33.1",
         "mocha": "^5.2.0",
         "rc": "^1.2.8",
         "should": "^11.2.1"
