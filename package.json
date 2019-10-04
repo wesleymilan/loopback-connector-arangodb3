@@ -1,18 +1,24 @@
 {
     "name": "loopback3-connector-arangodb3",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "ArangoDB connector for Loopback 3 and ArangoDB 3",
+    "homepage": "https://github.com/wesleymilan/loopback-connector-arangodb3",
+    "author": "Wesley Milan",
     "engines": {
-        "node": ">=4"
+        "node": ">=10"
     },
     "keywords": [
         "StrongLoop",
         "LoopBack",
-        "Connector"
+        "Connector",
+        "NodeJS"
     ],
     "repository": {
         "type": "git",
         "url": "https://github.com/wesleymilan/loopback-connector-arangodb3"
+    },
+    "bugs": {
+        "url": "https://github.com/wesleymilan/loopback-connector-arangodb3/issues"
     },
     "main": "index.js",
     "scripts": {
