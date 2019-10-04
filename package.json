@@ -42,7 +42,7 @@
     },
     "devDependencies": {
         "chai": "^3.5.0",
-        "eslint": "^4.19.1",
+        "eslint": "^6.5.0",
         "eslint-config-loopback": "^8.0.0",
         "loopback-datasource-juggler": "^3.33.1",
         "mocha": "^5.2.0",
