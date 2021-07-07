@@ -34,10 +34,10 @@
         "guid": "0.0.12",
         "loopback-connector": "^4.9.0",
         "mem": "^4.3.0",
-        "merge": "^1.2.1",
+        "merge": "^2.1.1",
         "msgpack5": "^3.6.0",
         "sha256": "^0.2.0",
-        "strong-globalize": "^2.10.0",
+        "strong-globalize": "^6.0.5",
         "uuid": "^3.3.3"
     },
     "devDependencies": {
@@ -45,7 +45,7 @@
         "eslint": "^6.5.0",
         "eslint-config-loopback": "^8.0.0",
         "loopback-datasource-juggler": "^3.33.1",
-        "mocha": "^5.2.0",
+        "mocha": "^9.0.2",
         "rc": "^1.2.8",
         "should": "^11.2.1"
     }
