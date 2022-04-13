@@ -28,7 +28,7 @@
     "license": "MIT",
     "dependencies": {
         "arangojs": "^5.8.0",
-        "async": "^2.6.3",
+        "async": "^3.2.2",
         "bluebird": "^3.5.5",
         "debug": "^2.6.9",
         "guid": "0.0.12",
